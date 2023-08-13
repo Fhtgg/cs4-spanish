@@ -666,7 +666,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=pelisplushd.net&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
+        "repositoryUrl": "https://github.com/Fhtgg/cs4-spanish",
         "fileSize": 11054,
         "status": 0,
         "language": "es",
