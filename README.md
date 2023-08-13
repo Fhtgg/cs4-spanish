@@ -1,6 +1,6 @@
 # Cloudstream Non-English Plugin Repository Unofficial Fork Including Updated Pelisplushd Plugin 
 
-Original repositories: https://codeberg.org/cloudstream/cloudstream-extensions-multilingual
+Original repository: https://codeberg.org/cloudstream/cloudstream-extensions-multilingual
 
 Este es un repositorio del repositorio multilingual, excepto que solo contiene el plugin pelisplus.
 
